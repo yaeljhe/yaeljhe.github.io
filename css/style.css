@@ -286,3 +286,9 @@ u.bottom-links{
 li{
     padding: 0 1.2em 0 1.2em;
 }
+
+@media(max-width: 1880px) {
+    .container{
+        height: auto;
+    }
+}
